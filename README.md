@@ -8,7 +8,15 @@ A computer science student interested in backend engineering and system design. 
 
 **Frameworks & Tools**: ASP.NET Core, Node.js, Express.js,  Docker, Git/GitHub, Postman, VS Code 
 
-**Databases**: SQL Server,MySQL, SQLite, MongoDB
+**Databases**: SQL Server, MySQL, SQLite, MongoDB
+
+## Contact Me
+
+**Portfolio**: https://nadaabdulghaffar.github.io/
+
+**Email**: nadaabdulghaffar42@gmail.com
+
+**LinkedIn**: www.linkedin.com/in/nada-abdelghaffar
 
 <!--
 **nadaabdulghaffar/nadaabdulghaffar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
