@@ -1,5 +1,12 @@
-## Nada Abdelghaffar
-Software Engineer | Backend Developer
+# Nada Abdelghaffar
+Software Engineer | Backend Engineering Enthusiast
+A computer science student interested in backend engineering and system design. Currently, I am expanding my experience in .NET Core and Node.js (Express.js) by developing full-stack applications that emphasize real-time communication, authentication, and microservices architecture.
+
+## Technical Skills
+
+**Languages**: C#, JavaScript, C/C++, Python
+**Frameworks & Tools**: ASP.NET Core, Node.js, Express.js,  Docker, Git/GitHub, Postman, VS Code
+**Databases**: SQL Server,MySQL, SQLite, MongoDB
 
 <!--
 **nadaabdulghaffar/nadaabdulghaffar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
