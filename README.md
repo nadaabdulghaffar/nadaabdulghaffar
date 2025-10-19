@@ -4,8 +4,10 @@ A computer science student interested in backend engineering and system design. 
 
 ## Technical Skills
 
-**Languages**: C#, JavaScript, C/C++, Python
-**Frameworks & Tools**: ASP.NET Core, Node.js, Express.js,  Docker, Git/GitHub, Postman, VS Code
+**Languages**: C#, JavaScript, C/C++, Python 
+
+**Frameworks & Tools**: ASP.NET Core, Node.js, Express.js,  Docker, Git/GitHub, Postman, VS Code 
+
 **Databases**: SQL Server,MySQL, SQLite, MongoDB
 
 <!--
