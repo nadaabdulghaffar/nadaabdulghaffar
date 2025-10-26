@@ -13,11 +13,11 @@ A computer science student interested in backend engineering and system design. 
 
 ## Contact Me
 
-**Portfolio**: https://nadaabdulghaffar.github.io/
++ **Portfolio**: https://nadaabdulghaffar.github.io/
 
-**Email**: nadaabdulghaffar42@gmail.com
++ **Email**: nadaabdulghaffar42@gmail.com
 
-**LinkedIn**: www.linkedin.com/in/nada-abdelghaffar
++ **LinkedIn**: www.linkedin.com/in/nada-abdelghaffar
 
 <!--
 **nadaabdulghaffar/nadaabdulghaffar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
