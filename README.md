@@ -11,13 +11,21 @@ A computer science student interested in backend engineering and system design. 
 
 **Databases**: SQL Server, MySQL, SQLite, MongoDB
 
-## Contact Me
+## 📫 Contact Me
 
-+ **Portfolio**: https://nadaabdulghaffar.github.io/
 
-+ **Email**: nadaabdulghaffar42@gmail.com
+<p align="left">
+  <a href="https://nadaabdulghaffar.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:nadaabdulghaffar42@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nada-abdelghaffar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-+ **LinkedIn**: www.linkedin.com/in/nada-abdelghaffar
 
 <!--
 **nadaabdulghaffar/nadaabdulghaffar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
