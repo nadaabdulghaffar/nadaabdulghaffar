@@ -1,4 +1,4 @@
-# Nada Abdelghaffar
+# 👋 Nada Abdelghaffar
 **Software Engineer | Backend Engineering Enthusiast**
 
 A computer science student interested in backend engineering and system design. Currently, I am expanding my experience in .NET Core and Node.js (Express.js) by developing full-stack applications that emphasize real-time communication, authentication, and microservices architecture.
